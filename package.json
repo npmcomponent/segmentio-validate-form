@@ -1,0 +1,38 @@
+{
+  "name": "segmentio-validate-form",
+  "description": "Easily validate a form element against a set of rules.",
+  "version": "0.9.1",
+  "keywords": [
+    "validate",
+    "validator",
+    "form",
+    "input",
+    "required",
+    "regexp",
+    "email",
+    "url"
+  ],
+  "main": "lib/index.js",
+  "dependencies": {
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "component-clone": "git://github.com/npmcomponent/component-clone.git",
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-each": "git://github.com/npmcomponent/component-each.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git",
+    "component-trim": "git://github.com/npmcomponent/component-trim.git",
+    "component-type": "git://github.com/npmcomponent/component-type.git",
+    "component-value": "git://github.com/npmcomponent/component-value.git",
+    "ianstormtaylor-bind": "git://github.com/npmcomponent/ianstormtaylor-bind.git",
+    "ianstormtaylor-next-sibling": "git://github.com/npmcomponent/ianstormtaylor-next-sibling.git",
+    "segmentio-is-email": "git://github.com/npmcomponent/segmentio-is-email.git",
+    "segmentio-is-hex-color": "git://github.com/npmcomponent/segmentio-is-hex-color.git",
+    "segmentio-is-hsl-color": "git://github.com/npmcomponent/segmentio-is-hsl-color.git",
+    "segmentio-is-rgb-color": "git://github.com/npmcomponent/segmentio-is-rgb-color.git",
+    "segmentio-is-url": "git://github.com/npmcomponent/segmentio-is-url.git",
+    "segmentio-submit-form": "git://github.com/npmcomponent/segmentio-submit-form.git",
+    "segmentio-validator": "git://github.com/npmcomponent/segmentio-validator.git",
+    "yields-prevent": "git://github.com/npmcomponent/yields-prevent.git",
+    "yields-stop": "git://github.com/npmcomponent/yields-stop.git"
+  },
+  "license": "MIT"
+}
